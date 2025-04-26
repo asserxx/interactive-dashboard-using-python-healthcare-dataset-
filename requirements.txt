@@ -3,6 +3,7 @@ jupyter-dash
 dash_core_components
 dash_html_components
 plotly
+seaborn
 pandas
 numpy
 plotly.express
