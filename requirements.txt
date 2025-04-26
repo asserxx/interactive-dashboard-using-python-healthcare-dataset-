@@ -5,5 +5,4 @@ dash_html_components
 plotly
 pandas
 numpy
-random
 plotly.express
